@@ -46,4 +46,4 @@ Sources: BBC, AP, France 24, USTR, and the 26 November daily news briefs
 ![rank](https://make.fun/badge/news-image-20261126/masaji129980-crypto/news-image-20261126-entry/rank.svg)
 ![reward](https://make.fun/badge/news-image-20261126/masaji129980-crypto/news-image-20261126-entry/reward.svg)
 
-Bounty: https://make.fun/bounty/news-image-20261126
+Bounty page: [news-image-20261126 on make.fun](https://make.fun/bounty/news-image-20261126)
